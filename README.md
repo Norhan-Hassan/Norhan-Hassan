@@ -1,5 +1,5 @@
 <h2> Hi, I'm Norhan Hassan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Senior Student at FCAI-CU <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> I am currently aspiring to become a Back-End Developer with a strong focus on creating efficient and robust server-side solutions. My passion for programming and my dedication to honing my back-end development skills drive me to pursue this exciting career path.
+<p><em>Senior Student at FCAI-CU <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> I am currently aspiring to become a Back-End Developer with a strong focus on creating efficient and robust server-side solutions. My passion for programming and my dedication to honing my back-end development skills drives me to pursue this exciting career path.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
