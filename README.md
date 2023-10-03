@@ -8,11 +8,15 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Currently Learning
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+Currently Learning
 and always eager to expand my knowledge. focusing on
 Back End Development 
 - Asp.Net Technology
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm open to collaboration on interesting projects. If you have an idea or want to work together, please feel free to reach out!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>
+I'm open to collaboration on interesting projects. If you have an idea or want to work together, please feel free to reach out!</b> :)
+</em>
 Thanks for visiting my GitHub profile! 
----
+
