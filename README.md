@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/norhan-hassan-755827211) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://norhanhassanali.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://norhanhassanali.vercel.app/)
 
 
 # 💻 Tech Stack:
