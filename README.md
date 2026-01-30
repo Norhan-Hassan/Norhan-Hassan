@@ -7,25 +7,27 @@
 
 ---
 
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
-  <!-- Text -->
-  <div style="flex: 1;">
-    I am a <strong><span>Full Stack .NET Developer<span></strong> specialising in <strong>ASP.NET Core</strong> and <strong>Angular</strong>.<br>
+  <div style="flex: 1; min-width: 250px;">
+    I am a <strong>Full Stack .NET Developer</strong> specialising in <strong>ASP.NET Core</strong> and <strong>Angular</strong>.<br>
     I create <strong>clean, maintainable code</strong> for modern web applications and backend systems.<br><br>
     🎓 Graduate — Faculty of Computers and Artificial Intelligence, Cairo University<br>
     🎓 ITI Graduate — Advanced .NET & Angular Track
   </div>
 
-  <!-- GIF -->
-  <!--
-  <div>
-    <img src=https://tenor.com/ef7sX7w7Au.gif" style="height: 100%;" alt="seal gif" />
+ >
+  <div style="flex: 0 0 auto;">
+    <img 
+      src="https://github.com/user-attachments/assets/c87f73ee-8bce-4a6c-a9e4-01b7a54c432f" 
+      width="130"
+      alt="coding gif"
+    />
   </div>
-  -->
 
 </div>
+
+
 
 
 ---
