@@ -1,58 +1,76 @@
-# 💫 About Me:
-
-**Full Stack .NET Developer** passionate about building scalable backend systems, modern web apps, and clean architecture solutions.
-
-🎓 Graduate — Faculty of Computers & AI, Cairo University  
-🚀 Focus: ASP.NET Core · Angular · Microservices  
-💡 I enjoy solving real-world problems through clean, maintainable code.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/norhan-hassan-755827211) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://norhanhassanali.vercel.app/)
+# Hi there, I'm Norhan Hassan
 
 
-# 💻 Tech Stack:
-<div align="center">
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" title="C#" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" title=".NET Core" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" title="REST Api"  /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" title="SQL Server" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="PostgreSQL" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS" /></code>
-   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" title="Bootstrap" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" title="JavaScript" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TypeScript" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" title="Angular" /></code>
-      <code><img width="50"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="Git"/></code>
-  <code><img width="50"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="Github"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" title="Postman" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"   title="c++"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" title="Redis" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" title="RabbitMQ" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" title="Elasticsearch" /></code>
- 
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/blazor.png" title="Blazor" /></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" title="MySQL" /></code>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub!&font=Fira+Code&size=28&center=true&color=FF69B4&pause=2000" />
+</p>
+
+---
+
+
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <!-- Text -->
+  <div style="flex: 1;">
+    I am a <strong><span>Full Stack .NET Developer<span></strong> specialising in <strong>ASP.NET Core</strong> and <strong>Angular</strong>.<br>
+    I create <strong>clean, maintainable code</strong> for modern web applications and backend systems.<br><br>
+    🎓 Graduate — Faculty of Computers and Artificial Intelligence, Cairo University<br>
+    🎓 ITI Graduate — Advanced .NET & Angular Track
+  </div>
+
+  <!-- GIF -->
+  <!--
+  <div>
+    <img src=https://tenor.com/ef7sX7w7Au.gif" style="height: 100%;" alt="seal gif" />
+  </div>
+  -->
+
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Norhan-Hassan&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Norhan-Hassan&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Norhan-Hassan&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Norhan-Hassan&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+## Connect With Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Norhan-Hassan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/norhan-hassan-755827211">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://norhanhassanali.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Norhan-Hassan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
+
+<div align="center">
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" title="JavaScript"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TypeScript"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" title="Angular"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" title="C#"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" title="C++"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" title=".NET Core"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" title="SQL Server"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="PostgreSQL"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="Git"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="GitHub"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" title="Postman"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" title="Redis"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" title="RabbitMQ"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" title="Elasticsearch"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/blazor.png" title="Blazor"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" title="MySQL"/></code>
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake.gif" width="800" />
+  </picture>
+</p>
